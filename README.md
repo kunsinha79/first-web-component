@@ -3,4 +3,4 @@
  
  start the application by `npm install` followed by `npm start`
  
- navigate to localhist:8000
+ navigate to localhost:8000
